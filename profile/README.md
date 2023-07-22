@@ -2,12 +2,17 @@
 
 # **Alice's Deposit**
 
+**Cypher Deposit: Your Path to Financial Privacy!** We're a passionate team of finance enthusiasts revolutionizing crypto withdrawals. Protect your identity, ensure confidentiality, and reclaim control over your financial transactions.Join us for a secure, seamless, and private crypto withdrawal experience. 💰🔒🌐
+
 **Privacy is not an option**
 
 In an increasingly connected Blockchain ecosystem, it becomes difficult to untie your on-chain activity from your identity. Alice's Deposit allows you to separate your addresses from your identity while giving you the ability to leverage your funds in the physical world.
 
 **A Youtube video of our product :** [here]()
 ####
+
+**Privacy is not an option**
+Cypher Deposit is a revolutionary platform empowering private crypto withdrawals with cutting-edge tech. Leveraging ZKBOB for anonymous transfers, liquidity pools through SDK integration, and Filecoin Bacalhau for secure access to Optimism blockchain, users enjoy utmost confidentiality. With its Near protocol frontend, Cypher Deposit embraces decentralization, ensuring data integrity. Push notifications further enhance user convenience. Redefine financial autonomy with Cypher Deposit, where privacy, security, and user-centricity converge for a seamless and confidential withdrawal experience in the dynamic world of cryptocurrencies. 🚀💱🔒
 
 ## **Features** ✨
 
