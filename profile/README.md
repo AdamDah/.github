@@ -1,10 +1,12 @@
 
 
-# **Alice's Deposit**
+# **Cypher Deposit**
+
+**Cypher Deposit: Your Path to Financial Privacy!** We're a passionate team of finance enthusiasts revolutionizing crypto withdrawals. Protect your identity, ensure confidentiality, and reclaim control over your financial transactions.Join us for a secure, seamless, and private crypto withdrawal experience. 💰🔒🌐
 
 **Privacy is not an option**
 
-In an increasingly connected Blockchain ecosystem, it becomes difficult to untie your on-chain activity from your identity. Alice's Deposit allows you to separate your addresses from your identity while giving you the ability to leverage your funds in the physical world.
+In an increasingly connected Blockchain ecosystem, it becomes difficult to untie your on-chain activity from your identity. Cypher's Deposit allows you to separate your addresses from your identity while giving you the ability to leverage your funds in the physical world.
 
 **A Youtube video of our product :** [here]()
 ####
@@ -36,9 +38,9 @@ Here you can find our [pitch deck]()
 
 **The team consists of 4 committed people who love what they do.**
 
-We are all students bound by our passion and commitment for blockchain and Web3. We want to develop innovative solutions that will help the whole ecosystem expand. Too many times have we seen privacy being set aside in projects and we want to be able to change that. That is why Maxime, Nathan, Thomas and Adam are glad to present Alice’s Deposit, the solution for real privacy.
+We are all students bound by our passion and commitment for blockchain and Web3. We want to develop innovative solutions that will help the whole ecosystem expand. Too many times have we seen privacy being set aside in projects and we want to be able to change that. That is why Maxime, Nathan, Thomas and Adam are glad to present Cypher’s Deposit, the solution for real privacy.
 
-By addressing the need for privacy in the blockchain ecosystem while having a real utility in our daily life, Alice's Deposit has the potential to be a valuable tool for individuals and businesses alike.
+By addressing the need for privacy in the blockchain ecosystem while having a real utility in our daily life, Cypher's Deposit has the potential to be a valuable tool for individuals and businesses alike.
 
 
 ## **Contribute** 📚
